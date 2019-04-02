@@ -2,7 +2,11 @@
 
 <table>
   <tr>
-    <th>111.461.864-01</th>
-    <th>José Otávio timóteo de Souza</th>
+    <th>CPF</th>
+    <th>Nome</th>
+  </tr>
+  <tr>
+    <td>111.461.864-01</td>
+    <td>José Otávio timóteo de Souza</td>
   </tr>
 </table>
