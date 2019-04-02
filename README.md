@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <th>CPF</th>
-    <th>Nome</th>
+    <th>111.461.864-01</th>
+    <th>José Otávio timóteo de Souza</th>
   </tr>
 </table>
